@@ -44,7 +44,7 @@ c. “Based on a security perspective, what are the most concerning log entries 
 
 2. These two separate log entries, `Successful Login by 'admin' from an Unusual External Location` and  `Copying a Financial File to a Public Share`, when combined, indicate a potential account compromise.
 
-3.Based on NotebookLM analysis, all three Login_Failed attempts originated from the IP address `10.0.0.100`, by user: `guest`
+3. Based on NotebookLM analysis, all three Login_Failed attempts originated from the IP address `10.0.0.100`, by user: `guest`
 
 
 
